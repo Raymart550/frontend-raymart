@@ -4,7 +4,7 @@
 body {
     font-family: 'Times New Roman', Times, serif;
     font-weight: bolder;
-    background-image: url("/image/hole.gif");
+    background-image: url("image/hole.gif");
     background-repeat: no-repeat;
     background-size: 200% 50%;
     background-position: center;
@@ -28,7 +28,7 @@ label {
 
 .container{
     width: 500px; margin: auto;
-    background-image: url("/image/spider.jpg");
+    background-image: url("image/spider.jpg");
     background-color: rgb(36,36,36);
     margin-top: 30px;
     padding-top: 50px;
